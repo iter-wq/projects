@@ -1,0 +1,19 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\vscode\getHardwareInformation\getHardwareInformation\bin\Debug\getHardwareInformation.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\vscode\getHardwareInformation\getHardwareInformation\bin\Debug\getHardwareInformation.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\vscode\getHardwareInformation\getHardwareInformation\bin\Debug\getHardwareInformation.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\vscode\getHardwareInformation\getHardwareInformation\obj\Debug\getHardwareInformation.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\vscode\getHardwareInformation\getHardwareInformation\obj\Debug\getHardwareInformation.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\vscode\getHardwareInformation\getHardwareInformation\obj\Debug\getHardwareInformation.pdb
+C:\Users\Игорь\Desktop\getHardwareInformation\getHardwareInformation\bin\Debug\getHardwareInformation.exe.config
+C:\Users\Игорь\Desktop\getHardwareInformation\getHardwareInformation\obj\Debug\getHardwareInformation.exe
+C:\Users\Игорь\Desktop\getHardwareInformation\getHardwareInformation\obj\Debug\getHardwareInformation.pdb
+C:\Users\Игорь\Desktop\getHardwareInformation\getHardwareInformation\bin\Debug\getHardwareInformation.exe
+C:\Users\Игорь\Desktop\getHardwareInformation\getHardwareInformation\bin\Debug\getHardwareInformation.pdb
+C:\Users\Игорь\Desktop\getHardwareInformation\getHardwareInformation\obj\Debug\getHardwareInformation.csprojResolveAssemblyReference.cache
+C:\Users\belik\Downloads\getHardwareInformation\getHardwareInformation\getHardwareInformation\bin\Debug\getHardwareInformation.exe.config
+C:\Users\belik\Downloads\getHardwareInformation\getHardwareInformation\getHardwareInformation\bin\Debug\getHardwareInformation.exe
+C:\Users\belik\Downloads\getHardwareInformation\getHardwareInformation\getHardwareInformation\bin\Debug\getHardwareInformation.pdb
+C:\Users\belik\Downloads\getHardwareInformation\getHardwareInformation\getHardwareInformation\obj\Debug\getHardwareInformation.csproj.AssemblyReference.cache
+C:\Users\belik\Downloads\getHardwareInformation\getHardwareInformation\getHardwareInformation\obj\Debug\getHardwareInformation.csproj.CoreCompileInputs.cache
+C:\Users\belik\Downloads\getHardwareInformation\getHardwareInformation\getHardwareInformation\obj\Debug\getHardwareInformation.exe
+C:\Users\belik\Downloads\getHardwareInformation\getHardwareInformation\getHardwareInformation\obj\Debug\getHardwareInformation.pdb

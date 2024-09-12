@@ -1,0 +1,26 @@
+D:\папки\проект (мат. плата)\mat\mat\obj\Debug\mat.csproj.AssemblyReference.cache
+D:\папки\проект (мат. плата)\mat\mat\obj\Debug\mat.Properties.Resources.resources
+D:\папки\проект (мат. плата)\mat\mat\obj\Debug\mat.csproj.GenerateResource.cache
+D:\папки\проект (мат. плата)\mat\mat\obj\Debug\mat.csproj.CoreCompileInputs.cache
+D:\папки\проект (мат. плата)\mat\mat\bin\Debug\mat.exe.config
+D:\папки\проект (мат. плата)\mat\mat\bin\Debug\mat.exe
+D:\папки\проект (мат. плата)\mat\mat\bin\Debug\mat.pdb
+D:\папки\проект (мат. плата)\mat\mat\bin\Debug\System.CodeDom.dll
+D:\папки\проект (мат. плата)\mat\mat\bin\Debug\System.CodeDom.xml
+D:\папки\проект (мат. плата)\mat\mat\obj\Debug\mat.csproj.CopyComplete
+D:\папки\проект (мат. плата)\mat\mat\obj\Debug\mat.exe
+D:\папки\проект (мат. плата)\mat\mat\obj\Debug\mat.pdb
+D:\папки\проект (мат. плата)\mat\mat\obj\Debug\mat.Form1.resources
+D:\папки\Матвеев\проект_1(мат. плата)\mat\mat\bin\Debug\mat.exe.config
+D:\папки\Матвеев\проект_1(мат. плата)\mat\mat\bin\Debug\mat.exe
+D:\папки\Матвеев\проект_1(мат. плата)\mat\mat\bin\Debug\mat.pdb
+D:\папки\Матвеев\проект_1(мат. плата)\mat\mat\bin\Debug\System.CodeDom.dll
+D:\папки\Матвеев\проект_1(мат. плата)\mat\mat\bin\Debug\System.CodeDom.xml
+D:\папки\Матвеев\проект_1(мат. плата)\mat\mat\obj\Debug\mat.csproj.AssemblyReference.cache
+D:\папки\Матвеев\проект_1(мат. плата)\mat\mat\obj\Debug\mat.Form1.resources
+D:\папки\Матвеев\проект_1(мат. плата)\mat\mat\obj\Debug\mat.Properties.Resources.resources
+D:\папки\Матвеев\проект_1(мат. плата)\mat\mat\obj\Debug\mat.csproj.GenerateResource.cache
+D:\папки\Матвеев\проект_1(мат. плата)\mat\mat\obj\Debug\mat.csproj.CoreCompileInputs.cache
+D:\папки\Матвеев\проект_1(мат. плата)\mat\mat\obj\Debug\mat.csproj.Up2Date
+D:\папки\Матвеев\проект_1(мат. плата)\mat\mat\obj\Debug\mat.exe
+D:\папки\Матвеев\проект_1(мат. плата)\mat\mat\obj\Debug\mat.pdb

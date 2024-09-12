@@ -1,0 +1,12 @@
+D:\папки\Матвеев\проект_3(игра на внимательность)\game\game\bin\Debug\game.exe.config
+D:\папки\Матвеев\проект_3(игра на внимательность)\game\game\bin\Debug\game.exe
+D:\папки\Матвеев\проект_3(игра на внимательность)\game\game\bin\Debug\game.pdb
+D:\папки\Матвеев\проект_3(игра на внимательность)\game\game\obj\Debug\game.csproj.AssemblyReference.cache
+D:\папки\Матвеев\проект_3(игра на внимательность)\game\game\obj\Debug\game.Form1.resources
+D:\папки\Матвеев\проект_3(игра на внимательность)\game\game\obj\Debug\game.Properties.Resources.resources
+D:\папки\Матвеев\проект_3(игра на внимательность)\game\game\obj\Debug\game.csproj.GenerateResource.cache
+D:\папки\Матвеев\проект_3(игра на внимательность)\game\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+D:\папки\Матвеев\проект_3(игра на внимательность)\game\game\obj\Debug\game.exe
+D:\папки\Матвеев\проект_3(игра на внимательность)\game\game\obj\Debug\game.pdb
+D:\папки\Матвеев\проект_3(игра на внимательность)\game\game\obj\Debug\game.Form2.resources
+D:\папки\Матвеев\проект_3(игра на внимательность)\game\game\obj\Debug\game.Form3.resources
